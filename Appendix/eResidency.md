@@ -1,1 +1,1 @@
-##  e-Residencyを取得して法人を作ってみた
+##  e-Residencyを取得してみた
