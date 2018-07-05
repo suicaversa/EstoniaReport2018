@@ -1,18 +1,88 @@
 EstoniaReport2018
 ---
 
-ここに、色々導入の文章を書いておく
+## はじめに
+本レポートは、note上で行ったクラウドファンディング[支援希望！エストニアの最新事情を調査したい！](https://note.mu/suica_versa/n/nd92997796b33)のサポートへの返礼品として執筆しております。
 
----
+noteやpolcaでサポートしていただいた皆様、その節は本当にありがとうございました。
+
+お陰様で、3月末から4月上旬にかけてエストニアでの視察を無事終えました。また、eResidencyの取得なども終え、
+後日登記も行います。一連の流れについても今後本レポートに追加予定です。
+
+また、この度はレポートの公開が遅くなりまして申し訳ございません。
 
 
-For Debug
----
-```
-- 交通事情(タクシー、uber、taxify、トラムとバス)をどこに入れよう
-- 消した項目だけどどこかに復活させたい
-  - エストニアで、成功しているスタートアップの特徴
-  - (スモールビジネスから始まって、大手に顧客を食われずに、そのまま成長を遂げている企業があれば、その要因知りたいです)(八巻さん)
-  - transferwise。 (TODO: 創業年度と成功要因について調査する)
-  - starship technology (TODO: 法律関係のやり取りについて調査しておく)
-```
+本レポートはご友人などに限ってURLのシェアはOKです。周りのエストニアに興味がある方や行かれる予定の方にご紹介ください。
+
+ただし、返礼品としてのレポートですので、全体公開のFacebookやtwitterでの拡散は当面ご遠慮ください。
+
+## 質問について
+本レポートや、その他エストニアに関連するご質問を随時受け付けております。個別への回答のほか、本レポートへの追加執筆を行います。
+
+[質問投稿フォーム](https://docs.google.com/forms/d/e/1FAIpQLScdr9awQApa-tqVX79gq9HaFRNGLUWtZEkytWNCQ9KgjR_s4Q/viewform?usp=sf_link)
+
+## Special Thanks
+以下の方々にサポートしていただきました。(名前の非公開をご希望される方はFacebookなどでご連絡ください。)
+
+### polcaからサポートいただいた皆様
+- arimoto
+- bage
+- duckchan
+- marisakura
+- yamaki
+- 重枝義樹
+
+### noteからサポートいただいた皆様
+※継承略、noteでの表示名のアルファベット順
+
+- Akihide Higo
+- atsushi.naka
+- CaptainJack＠プロゲーマー＆プロブロガー
+- Chnohe
+- Daisuke Suga
+- daisuke.takata
+- hiroaki81
+- hiroyasumi
+- IKEUCHI Yasuki
+- info
+- j20364
+- Junya Ukyo
+- KIKI
+- Kotaro Kitamura
+- ktst
+- matter_design
+- mr.november
+- mta12
+- naoko_oshima
+- ochimos
+- けんすう
+- Rickey
+- shoya
+- Shunsuke Ishikawa
+- susax
+- こみかん
+- t.naitoon
+- takao.akizawa
+- Taku
+- Terusan/てるさん
+- tomoko0724arai
+- toshihiroyo
+- twodollarz
+- uk_daredevil
+- yamada
+- Yoshihide Kajino
+- yoshitrance
+- yoshitsugu
+- yujigogo
+- Yuki Minei
+- Yuta Suwa
+- yuta.kenmochi
+- yuukinakagawa
+- yuuki_tannai
+- yuya_abe_0525
+- y_tamari
+- zuqqhi2
+- べっさん
+- ミルチー
+- 吉井 秀三 (Shuzo Yoshii)
+- 細川 哲星
