@@ -38,7 +38,8 @@
     * [エストニアでは税金はどうやって納めるの？確定申告は？](50Questions/eGovernment.md#エストニアでは税金はどうやって納めるの？確定申告は？)
     * [日本とWebコミュニティで異なるポイントは何かある？](50Questions/eGovernment.md#日本とWebコミュニティで異なるポイントは何かある？)
     * [電子化に伴って職を失う人はいなかったのか？](50Questions/eGovernment.md#電子化に伴って職を失う人はいなかったのか？)
-
+  * [おまけ](Appendix/SUMMARY.md)
+    * [e-Residencyを取得してみた](Appendix/e-Residency.md)
 ---
 
 * [**以下は、今後執筆予定の項目です。**](#)
