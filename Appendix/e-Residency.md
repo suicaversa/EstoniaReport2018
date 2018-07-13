@@ -108,13 +108,31 @@ e-Residencyは管轄が大きく分けて3つあります。
 
 <img alt="メール返信が来ない" src="./res/e-Residency/before-pickup/11-embassy-mail.png" width="500">
 
-全然メールの返信が来ません。電子国家なだけに電話での連絡は控えていたのですが、最終的に電話して日程の調整ができました。
+全然メールの返信が来ません。電子国家なだけに電話での連絡は控えていたのですが、最終的に電話して日程の調整をしました。
 
 <img alt="アポ確定" src="./res/e-Residency/before-pickup/12-fix-embassy-appointment.png" width="500">
 
 # 大使館へ取りに行く
+ということで、申請から二ヶ月半経ってようやく大使館に取りに行くことになりました。
 
+大使館は東京の外苑前駅から徒歩10分弱の場所にあります。
+
+到着してみると、民家の中に少し大きめの家が、、と思ったら、これが大使館でした。
+![大使館](./res/e-Residency/pickup/embassy-whole.jpg)
+![大使館の前](./res/e-Residency/pickup/embassy-front.jpg)
+
+中に入ったら受付でサインをした後に、カードに登録する指紋を登録して受け渡しです。時間にして10分かからない程度でした。記念に撮影をお願いしたら快く引き受けていただきました
+
+![取得できた](./res/e-Residency/pickup/finally-got-eresidency.jpg)
 
 # 初期セットアップをする
+ということで、いよいよe-Residencyキットを手に入れました！
+
+![e-Residency Kit](./res/e-Residency/pickup/e-Residency-kit.jpg)
+![e-Residency Kit 開封](./res/e-Residency/pickup/e-Residency-kit-unbox.jpg)
 
-# 使ってみた
+中々オシャレなこのキットですが、開けてみるとシンプルでe-Residencyカード、カードリーダー、初期設定の暗証番号が書いてあるシートが入っていました。
+![e-Residency 紙](./res/e-Residency/pickup/e-Residency-paper.jpg)
+
+
+実際に使った様子は、[e-Residencyカードを使ってみた](./Using-e-Residency.md)で説明します。
