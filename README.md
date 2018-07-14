@@ -21,6 +21,9 @@ noteやpolcaでサポートしていただいた皆様、その節は本当に�
 
 [質問投稿フォーム](https://docs.google.com/forms/d/e/1FAIpQLScdr9awQApa-tqVX79gq9HaFRNGLUWtZEkytWNCQ9KgjR_s4Q/viewform?usp=sf_link)
 
+## 編集履歴
+* 2018-07-14 e-Residencyの取得と利用について[おまけ](./Appendix/SUMMARY.md)に追記しました
+
 ## Special Thanks
 以下の方々にサポートしていただきました。(名前の非公開をご希望される方はFacebookなどでご連絡ください。)
 

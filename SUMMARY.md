@@ -40,6 +40,7 @@
     * [電子化に伴って職を失う人はいなかったのか？](50Questions/eGovernment.md#電子化に伴って職を失う人はいなかったのか？)
   * [おまけ](Appendix/SUMMARY.md)
     * [e-Residencyを取得してみた](Appendix/e-Residency.md)
+    * [e-Residencyを使ってみた](Appendix/Using-e-Residency.md)
 ---
 
 * [**以下は、今後執筆予定の項目です。**](#)
