@@ -1,0 +1,24 @@
+{
+  "name": "estonia-report-2018",
+  "version": "1.0.0",
+  "description": "Estonia Report for Crowdfunding",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-ga": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitbook": "gitbook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suicaversa/EstoniaReport2018.git"
+  },
+  "author": "Yutaro HIGASHI <suica.versa@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suicaversa/EstoniaReport2018/issues"
+  },
+  "homepage": "https://github.com/suicaversa/EstoniaReport2018#readme"
+}
